@@ -3,9 +3,9 @@ YL.static = {
   softwareName: 'Acacia\'s Blog', //网站名。请在此处填写您自己的网站名，如王小明的博客。
   version: "1.0.0", // 网站版本号
   iconBtnStart: 'html5', //主图标
-  author: 'Akilar',//作者
-  contactInformation: 'qq:844893474',//联系方式
-  officialWebsite: 'https://akilar.top',//软件官网
+  author: 'Acacia',//作者
+  contactInformation: '邮箱:18762590320@163.com',//联系方式
+  officialWebsite: 'https://w-k.xyz/',//软件官网
   welcome: '本网站UI由 YLUI 强力驱动',//加载完毕控制台提示信息
   copyrightDetail: 'YLUI',//版权详细信息
   otherStatements: '',//其他信息（可留空）
