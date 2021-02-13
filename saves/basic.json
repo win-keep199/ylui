@@ -316,7 +316,7 @@
           "customTile": "",
           "urlRandomToken": false
       },
-      "Akilar": {
+      "Acacia": {
           "addressBar": false,
           "autoRun": 0,
           "background": false,
@@ -324,7 +324,7 @@
           "desc": "个人博客",
           "icon": {
               "type": "img",
-              "content": "https://akilar.top/img/siteicon/favicon.png",
+              "content": "https://w-k.xyz/uploads/av.jpg",
               "bg": "#1b1b1b"
           },
           "openMode": "outer",
@@ -337,15 +337,15 @@
               "y": "y*0.05"
           },
           "version": "1.0.0",
-          "poweredBy": "Akilar",
+          "poweredBy": "Acacia",
           "resizable": true,
           "single": false,
           "size": {
               "height": "y*0.8-80",
               "width": "x*0.8"
           },
-          "title": "Akilar",
-          "url": "https://akilar.top/",
+          "title": "Acacia",
+          "url": "https://w-k.xyz/",
           "customTile": "",
           "urlRandomToken": false
       },
@@ -412,39 +412,6 @@
           },
           "title": "Butterfly",
           "url": "https://butterfly.js.org/",
-          "customTile": "",
-          "urlRandomToken": false
-      },
-      "twikoo": {
-          "addressBar": false,
-          "autoRun": 0,
-          "background": false,
-          "badge": 0,
-          "desc": "twikoo评论官网",
-          "icon": {
-              "type": "fa",
-              "content": "Example of comments-o fa-comments-o",
-              "bg": "#5e4e5e"
-          },
-          "openMode": "outer",
-          "plugin": false,
-          "position": {
-              "autoOffset": true,
-              "left": true,
-              "top": true,
-              "x": "x*0.05",
-              "y": "y*0.05"
-          },
-          "version": "1.0.0",
-          "poweredBy": "twikoo",
-          "resizable": true,
-          "single": false,
-          "size": {
-              "height": "y*0.8-80",
-              "width": "x*0.8"
-          },
-          "title": "Twikoo",
-          "url": "https://twikoo.js.org",
           "customTile": "",
           "urlRandomToken": false
       },
@@ -547,39 +514,6 @@
           "customTile": "",
           "urlRandomToken": true
       },
-      "uptimestatus": {
-          "addressBar": false,
-          "autoRun": 1,
-          "background": false,
-          "badge": 0,
-          "desc": "",
-          "icon": {
-              "type": "fa",
-              "content": "dashboard",
-              "bg": "#db1453"
-          },
-          "openMode": "min",
-          "plugin": true,
-          "position": {
-              "autoOffset": true,
-              "left": true,
-              "top": true,
-              "x": "x*0.05",
-              "y": "y*0.05"
-          },
-          "version": "1.0.0",
-          "poweredBy": "",
-          "resizable": true,
-          "single": false,
-          "size": {
-              "height": "y*0.8-80",
-              "width": "x*0.8"
-          },
-          "title": "网站监控",
-          "url": "https://status.akilar.top/",
-          "customTile": "",
-          "urlRandomToken": true
-      },
       "github": {
           "addressBar": false,
           "autoRun": 0,
@@ -609,7 +543,7 @@
               "width": "x*0.8"
           },
           "title": "Github",
-          "url": "https://github.com/akilarlxh/",
+          "url": "https://github.com/win-keep199",
           "customTile": "",
           "urlRandomToken": false
       },
@@ -807,7 +741,7 @@
               "width": "x*0.8"
           },
           "title": "bilibili",
-          "url": "https://space.bilibili.com/22976782/",
+          "url": "https://space.bilibili.com/22119869",
           "customTile": "",
           "urlRandomToken": false
       },
@@ -1236,12 +1170,6 @@
                   "hash": ""
               },
               {
-                  "app": "twikoo",
-                  "title": "Twikoo",
-                  "params": {},
-                  "hash": ""
-              },
-              {
                   "app": "iconfont",
                   "title": "iconfont",
                   "params": {},
@@ -1379,8 +1307,8 @@
           ]
       },
       {
-          "app": "Akilar",
-          "title": "Akilar",
+          "app": "Acacia",
+          "title": "Acacia",
           "params": {},
           "hash": ""
       }
@@ -1394,8 +1322,8 @@
                   "y": 0,
                   "w": 4,
                   "h": 4,
-                  "app": "Akilar",
-                  "title": "Akilar",
+                  "app": "Acacia",
+                  "title": "Acacia",
                   "i": "172",
                   "params": {},
                   "hash": ""
@@ -1449,8 +1377,8 @@
               "hash": ""
           },
           "itemPushed-183": {
-              "app": "Akilar",
-              "title": "Akilar",
+              "app": "Acacia",
+              "title": "Acacia",
               "params": {},
               "hash": ""
           },
